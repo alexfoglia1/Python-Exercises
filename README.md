@@ -1,11 +1,11 @@
 # Python-Exercises
 School projects in python
 
-#Ex 1
+# Ex 1
 FTP Server
 
-#Ex2
+# Ex2
 FTP Client
 
-#Ex3
+# Ex3
 Distance Vector routing simulator
